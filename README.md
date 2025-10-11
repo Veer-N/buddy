@@ -1,0 +1,2 @@
+# buddy
+My AI friend
