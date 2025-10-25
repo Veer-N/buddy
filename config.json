@@ -1,0 +1,16 @@
+{
+  "backend": {
+    "host": "192.168.0.199",
+    "port": 8000,
+    "ws_endpoint": "/ws"
+  },
+  "audio": {
+    "folder": "buddy_audio/",
+    "max_cache": 5,
+    "bitrate": "64k",
+    "sample_rate": 44100
+  },
+  "tts": {
+    "language": "en"
+  }
+}
